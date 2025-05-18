@@ -299,7 +299,7 @@ tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
 into a dwelling.  In determining whether a product is a consumer product,
 doubtful cases shall be resolved in favor of coverage.  For a particular
-product received by a particular user, 'normally used " refers to a
+product received by a particular user, "normally used " refers to a
 typical or common use of that class of product, regardless of the status
 of the particular user or of the way in which the particular user
 actually uses, or expects or is expected to use, the product.  A product
@@ -362,7 +362,7 @@ for which you have or can give appropriate copyright permission.
 add to a covered work, you may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:
 
-   " a') "Disclaiming warranty or limiting liability differently from the
+   " a ') "Disclaiming warranty or limiting liability differently from the
     terms of sections 15 and 16 of this License; or
 
     b) Requiring preservation of specified reasonable legal notices or
